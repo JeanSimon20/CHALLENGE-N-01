@@ -1,11 +1,10 @@
-
 # Agregar su credenciales de mongo atlas
 
 spring:
   data:
     mongodb:
-      database: db_ms_order
-      uri: mongodb+srv://jeansimon:jean123@cluster0.hipbl.mongodb.net/db_ms_order?retryWrites=true&w=majority
+      database: db_ms_product
+      uri: mongodb+srv://jeansimon:jean123@cluster0.hipbl.mongodb.net/db_ms_product?retryWrites=true&w=majority
 
 server:
   port: 8081
