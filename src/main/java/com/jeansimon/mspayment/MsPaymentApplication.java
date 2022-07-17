@@ -1,12 +1,13 @@
-package com.uni.dev.msproduct;
+package com.jeansimon.mspayment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsProductApplication {
+public class MsPaymentApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(MsProductApplication.class, args);
+        SpringApplication.run(MsPaymentApplication.class, args);
     }
 
 }
