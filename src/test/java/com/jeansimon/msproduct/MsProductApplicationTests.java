@@ -1,4 +1,4 @@
-package com.uni.dev.msproduct;
+package com.jeansimon.msproduct;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
