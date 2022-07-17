@@ -1,4 +1,4 @@
-package com.vallegrande.edu.msorder;
+package com.jeansimon.msorder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
